@@ -2,7 +2,10 @@
 
 Este proyecto implementa un sistema completo de registro y autenticación con Vue.js en el frontend y FastAPI en el backend.
 
+## si
+
 ## Estructura del Proyecto
+
 
 ```
 /
