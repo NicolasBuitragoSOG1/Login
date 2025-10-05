@@ -2,7 +2,7 @@
 
 Este proyecto implementa un sistema completo de registro y autenticación con Vue.js en el frontend y FastAPI en el backend.
 
-UPDATE README.md: Commit y Pull Request Realizada Por Camilo Ardila
+UPDATE README.md: Commit y Pull Request Realizada Por Camilo Ardila y aprobada por Nicolás Buitrago
 
 ## si
 
